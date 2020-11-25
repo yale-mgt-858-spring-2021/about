@@ -17,9 +17,10 @@ class: Yale's MGT858 in the Fall of 2020.
 | Course number 🎓           | MGT858                                                                    |
 | Units 📚                  | 2 units in Yale College and equivalent elsewhere                          |
 | Enrollment 👥             | Open to any student at Yale                             |
-| Meeting Time 🕰 | Tuesdays & Thursdays 10:30-11:40 AM EST                 |
+| Meeting Time 🕓 | Tuesdays & Thursdays 10:30-11:40 AM EST                 |
 | Meeting Location 🏫 | Some room in [Evans Hall](https://map.yale.edu/place/building/EVANS?) |
 | Zoom link 💻       | See Canvas for now. Link is in there.                                     |
+| Calendar 📅 | [Yale SOM Spring 2021 Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar#spring2021) |
 | Website 🌐         | http://858.mba (offline sometimes until semester begins)                  |
 
 
