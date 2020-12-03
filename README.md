@@ -19,7 +19,7 @@ class: Yale's MGT858 in the Fall of 2020.
 | 👥 Enrollment             | Open to any student at Yale                             |
 | 🕓 Meeting Time | Tues. & Thurs. 10:30-11:40 AM EST, March 23 - May 4, 2021                 |
 | 🏫 Meeting Location | Some room in [Evans Hall](https://map.yale.edu/place/building/EVANS?) |
-| 💻 Zoom link       | See Canvas for now. Link is in there.                                     |
+| 💻 Zoom link       | Will be in Canvas                                     |
 | 📅 Calendar | [Yale SOM Spring 2021 Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar#spring2021) |
 | 🌐 Website         | http://858.mba (offline sometimes until semester begins)                  |
 
@@ -165,8 +165,8 @@ semester course](https://missing.csail.mit.edu/).
 
 Finally, you might think about getting your personal computer set up for
 writing code. That usually starts with choosing a package manager
-([homebrew](https://brew.sh/) on Mac OS) and
-[Chocolatey](https://chocolatey.org/) on Windows and choosing a [good code
+([homebrew](https://brew.sh/) on Mac OS and
+[Chocolatey](https://chocolatey.org/) on Windows) and choosing a [good code
 editor](https://github.com/collections/text-editors). I use
 [VSCode](https://code.visualstudio.com/) and [NeoVim](https://neovim.io/).
 
