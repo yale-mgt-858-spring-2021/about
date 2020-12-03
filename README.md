@@ -173,4 +173,7 @@ editor](https://github.com/collections/text-editors). I use
 Also 😜, you'll want to be familiar with [git](https://git-scm.com/). You can
 find [many tutorials
 online](https://medium.com/@javinpaul/top-10-free-courses-to-learn-git-and-github-best-of-lot-967aa314ea).
+Your use of git this semester will be super simple because you won't generally
+have collaborators. If you like, you can use a [git gui](https://git-scm.com/downloads/guis).
+I use GitHub Desktop often, mostly for line-by-line staging of changes.
 
