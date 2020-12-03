@@ -141,4 +141,36 @@ Cloud9. You'll need to supply an account number, username, and password. All
 that is in your dashboard under the "user secrets" section. (I won't create the
 Cloud9 environments until the beginning of the semester.)
 
+## Preparing for the course
+
+I am receiving a few emails from students about how best to prepare for the
+class. There's a few ways to think about doing so. One is to prepare narrowly
+for the content you're going to encounter. For SQL, in my person opinion, the
+best way to do so is going through the exercises at
+[SQLBolt](https://sqlbolt.com/).  I think that website is fantastic and it's
+part of the assigned reading in class. For the other database systems we'll
+use, the answer is less clear.  You can read about
+[ElasticSearch](https://github.com/elastic/elasticsearch) (the reprentative
+full-text search database we'll use);
+[ClickHouse](https://github.com/ClickHouse/ClickHouse) (the representative
+columnar store we'll use); [Redis](https://github.com/redis/redis) (the
+representative caching database we'll use);
+[MongoDB](https://github.com/mongodb/mongo) (the representative noSQL
+database we'll use); and [Neo4j](https://github.com/neo4j/neo4j) (the
+representative graph database we'll use).
+
+A second way to prepare is to level-up your computer skills in general,
+particularly your *nix skills. A good resource for doing so is [MIT's missing
+semester course](https://missing.csail.mit.edu/).
+
+Finally, you might think about getting your personal computer set up for
+writing code. That usually starts with choosing a package manager
+([homebrew](https://brew.sh/) on Mac OS) and
+[Chocolatey](https://chocolatey.org/) on Windows and choosing a [good code
+editor](https://github.com/collections/text-editors). I use
+[VSCode](https://code.visualstudio.com/) and [NeoVim](https://neovim.io/).
+
+Also 😜, you'll want to be familiar with [git](https://git-scm.com/). You can
+find [many tutorials
+online](https://medium.com/@javinpaul/top-10-free-courses-to-learn-git-and-github-best-of-lot-967aa314ea).
 
