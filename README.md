@@ -33,7 +33,7 @@ kinds of systems including noSQL, distributed, full-text, columnar, tick,
 caching, graph, and blockchain-based databases. We will discuss the role of
 these database systems in customer-facing products and also how these databases
 are used to make data-driven management decisions.  The coursework includes
-bi-weekly homework assignments and a final examination, all of which require
+twice-weekly homework assignments and a final examination, all of which require
 writing code and must be submitted using the git version control system.
 (Experience with git is not required; however, some experience programming is
 necessary. The particular language does not matter.) Students can expect to
