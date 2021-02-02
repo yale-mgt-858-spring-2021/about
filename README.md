@@ -150,7 +150,7 @@ best way to do so is going through the exercises at
 [SQLBolt](https://sqlbolt.com/).  I think that website is fantastic and it's
 part of the assigned reading in class. For the other database systems we'll
 use, the answer is less clear.  You can read about
-[ElasticSearch](https://github.com/elastic/elasticsearch) (the reprentative
+[ElasticSearch](https://github.com/elastic/elasticsearch) (the representative
 full-text search database we'll use);
 [ClickHouse](https://github.com/ClickHouse/ClickHouse) (the representative
 columnar store we'll use); [Redis](https://github.com/redis/redis) (the
@@ -174,6 +174,50 @@ Also 😜, you'll want to be familiar with [git](https://git-scm.com/). You can
 find [many tutorials
 online](https://medium.com/@javinpaul/top-10-free-courses-to-learn-git-and-github-best-of-lot-967aa314ea).
 Your use of git this semester will be super simple because you won't generally
-have collaborators. If you like, you can use a [git gui](https://git-scm.com/downloads/guis).
+have collaborators. If you like, you can use a [git GUI](https://git-scm.com/downloads/guis).
 I use GitHub Desktop often, mostly for line-by-line staging of changes.
+
+## Homework assignments
+
+We will have roughly one homework assignment per class. That's a *lot* of
+homework. The majority of homework assignments will require writing SQL.
+All of the homework assignments will be submitted using to GitHub using
+git.
+
+## Class meetings
+
+This is a half term course. Here is our _tentative_ schedule.
+
+* Class intro and version control
+  2021-03-23T10:30:00-04:00
+* Introduction to RDBMS, PostgreSQL, and SQL
+  2021-03-25T10:30:00-04:00
+* SQL queries of multiple tables
+  2021-03-30:30:00-04:00
+* SQL schema design, normalization
+  2021-04-01T10:30:00-04:00
+* SQL CTEs, subqueries, and advanced joins
+  2021-04-06T10:30:00-04:00
+* Advanced aggregates and statistics
+  2021-04-08T10:30:00-04:00
+* SQL Indexes
+  2021-04-13T10:30:00-04:00
+* SQL views
+  2021-04-15T10:30:00-04:00
+* Scaling SQL
+  2021-04-20T10:30:00-04:00
+* Key-value databases
+  2021-04-22T10:30:00-04:00
+* Document databases
+  2021-04-27T10:30:00-04:00
+* Distributed databases
+  2021-04-29T10:30:00-04:00
+* Blockchain databases
+  2021-05-04T10:30:00-04:00
+* Class summary
+  2021-05-06T10:30:00-04:00
+* Final Exam
+  2021-05-07T09:00:00-04:00
+
+Notice that we will meet on 4/8 even though Yale College does not.
 
