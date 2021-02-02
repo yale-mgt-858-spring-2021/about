@@ -14,14 +14,14 @@ class: Yale's MGT858 in the Fall of 2020.
 
 | Key                     | Value                                                                     |
 | ----------------------- | ------------------------------------------------------------------------- |
-| 🎓 Course number           | MGT858                                                                    |
-| 📚 Units                  | 2 units in Yale College and equivalent elsewhere                          |
-| 👥 Enrollment             | Open to any student at Yale                             |
-| 🕓 Meeting Time | Tues. & Thurs. 10:30-11:40 AM EST, March 23 - May 4, 2021                 |
-| 🏫 Meeting Location | Some room in [Evans Hall](https://map.yale.edu/place/building/EVANS?) |
-| 💻 Zoom link       | Will be in Canvas                                     |
-| 📅 Calendar | [Yale SOM Spring 2021 Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar#spring2021) |
-| 🌐 Website         | http://858.mba (offline sometimes until semester begins)                  |
+| 🎓&nbsp;Course number           | MGT858                                                                    |
+| 📚&nbsp;Units                  | 2 units in Yale College and equivalent elsewhere                          |
+| 👥&nbsp;Enrollment             | Open to any student at Yale                             |
+| 🕓&nbsp;Meeting Time | Tues. & Thurs. 10:30-11:40 AM EST, March 23 - May 4, 2021                 |
+| 🏫&nbsp;Meeting Location | Some room in [Evans Hall](https://map.yale.edu/place/building/EVANS?) |
+| 💻&nbsp;Zoom link       | Will be in Canvas                                     |
+| 📅&nbsp;Calendar | [Yale SOM Spring 2021 Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar#spring2021) |
+| 🌐&nbsp;Website         | http://858.mba (offline sometimes until semester begins)                  |
 
 
 MGT858 introduces enrolled students to the database systems used in modern
@@ -29,15 +29,19 @@ technology companies.  You will emerge from this course an SQL ninja,
 well-prepared for tech sector roles including data scientist, product manager,
 and technical program manager.  The first half of the course covers relational
 databases (those that use SQL, generally) and the latter half covers other
-kinds of systems including noSQL, distributed, full-text, columnar, tick,
-caching, graph, and blockchain-based databases. We will discuss the role of
-these database systems in customer-facing products and also how these databases
-are used to make data-driven management decisions.  The coursework includes
-twice-weekly homework assignments and a final examination, all of which require
-writing code and must be submitted using the git version control system.
-(Experience with git is not required; however, some experience programming is
-necessary. The particular language does not matter.) Students can expect to
-spend perhaps six hours per week on homework.
+kinds of systems including key-value stores, document databases (noSQL),
+distributed databases, graph databases, blockchain databases.  We will discuss
+the business case for each of these database such that you ought to emerge from
+the course able to think of a software product or service and describe what
+kind of database systems ought to be used to build that product.  You will not
+learn how to build such systems, though you will learn a little bit about their
+internals. You will definitely learn how these systems can be used to answer to
+the kinds of analytics questions you will encounter as a manager.  The
+coursework includes *twice-weekly* homework assignments and a final
+examination, all of which require writing code and must be submitted using the
+git version control system.  (Experience with git is not required; however,
+some experience programming is necessary. The particular language does not
+matter.) Students can expect to spend perhaps six hours per week on homework.
 
 
 I don't know how many students will enroll in this course. As of Nov 24th, 2020,
