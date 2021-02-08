@@ -7,9 +7,6 @@ track changes by looking the git commits.
 
 Jump to [Covid info](#covid).
 
-This repo tracks information and policies for our
-class: Yale's MGT858 in the Fall of 2020.
-
 ## Overview
 
 | Key                     | Value                                                                     |
@@ -21,7 +18,7 @@ class: Yale's MGT858 in the Fall of 2020.
 | 🏫&nbsp;Meeting Location | Some room in [Evans Hall](https://map.yale.edu/place/building/EVANS?) |
 | 💻&nbsp;Zoom link       | Will be in Canvas                                     |
 | 📅&nbsp;Calendar | [Yale SOM Spring 2021 Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar#spring2021) |
-| 🌐&nbsp;Website         | http://858.mba (offline sometimes until semester begins)                  |
+| 🌐&nbsp;Website         | http://858.mba (down sometimes until class begins; requires Yale VPN)                  |
 
 
 MGT858 introduces enrolled students to the database systems used in modern
