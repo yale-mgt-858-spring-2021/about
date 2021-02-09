@@ -203,7 +203,7 @@ more of the following resources.
 ## Homework assignments
 
 We will have roughly ten homework assignments and ten pre-class quizzes. That's
-a *lot* of work!  All of the homework assignments will be submitted using to
+a *lot* of work!  All of the homework assignments will be submitted to
 GitHub using git. Further, you'll be responsible for at least one in-class news
 item.
 
