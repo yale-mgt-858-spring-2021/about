@@ -202,10 +202,36 @@ more of the following resources.
 
 ## Homework assignments
 
-We will have roughly one homework assignment per class. That's a *lot* of
-homework. The majority of homework assignments will require writing SQL.
-All of the homework assignments will be submitted using to GitHub using
-git.
+We will have roughly ten homework assignments and ten pre-class quizzes. That's
+a *lot* of work!  All of the homework assignments will be submitted using to
+GitHub using git. Further, you'll be responsible for at least one in-class news
+item.
+
+## Grading
+
+Grading will follow the [official Yale SOM grading
+policy](https://portal.som.yale.edu/page/grade-policy-mba-mam-mms).  That is
+_essentially_ a forced curve: a certain number of students get each grade: HH,
+H, etc. In my opinion, it's a quite generous curve (though [the ethics of
+grading on a curve are
+dubious](https://digitalcommons.law.byu.edu/cgi/viewcontent.cgi?httpsredir=1&article=1153&context=elj).
+I will compute the grades for non-SOM students by overlaying their school's
+grading scale on top of the SOM curve. There's not a 1-to-1 correspondence.
+Your letter grade will be based on your sum grade and your sum grade will be
+determined _roughly_ as follows (I reserve the right to make changes. The most
+common change I make is dropping assignments.)
+
+
+| Component       | Percentage            | 
+| --------------- | ---------------- |
+| Homework     | 35% | 
+| Quizzes   | 35% | 
+| Final exam   | 20% | 
+| Participation   | 10% | 
+
+The ethics of counting participation in the grade are also a bit dubious 🙁.
+But, I'm including it for consequentialist reasons: your participation makes
+the class more fun for all of us and most importantly for me 🤣.
 
 ## Class meetings
 
