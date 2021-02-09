@@ -1,9 +1,10 @@
 # MGT858 - Database Systems, Spring 2021
 
-Hello 👋👋! This is the "about" page for MGT858 "Database Systems" at the Yale
-School of Management in Spring 2021. This is the first time I'm teaching this
-course and I'm super jazzed about it 🤩🥳. This is a living document — you can
-track changes by looking the git commits. 
+Hello 👋👋! This is the "about" page for [MGT858 "Database
+Systems"](https://858.mba) at the Yale School of Management in Spring 2021.
+This is the first time I'm teaching this course and I'm super jazzed about it
+🤩🥳. This is a living document — you can track changes by looking the git
+commits. 
 
 Jump to [Covid info](#covid).
 
