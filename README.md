@@ -185,6 +185,21 @@ I use GitHub Desktop often, mostly for line-by-line staging of changes.
 There is no textbook for the course. Readings will be posted on the
 [class website](https://858.mba).
 
+## Diversity, equity, inclusion and their opposites
+
+This class will be an inclusive environment. If you see behavior
+that you feel is discriminatory, _particularly_ from the professor
+or teaching staff, we encourage you to avail yourself of one or
+more of the following resources.
+
+- [Preventing and Responding to Sexual Misconduct at Yale Booklet](https://smr.yale.edu/sites/default/files/files/Guide-Preventing-and-Responding-to-Sexual-Misconduct.pdf)
+- [Yale
+  Sexual Harassment and Assault Response & Education (SHARE)](https://sharecenter.yale.edu/)
+- Diane Temple in SOM Human Resources and Sheri Scully in the SOM AASL.
+- [Yale Title IX Coordinators](https://provost.yale.edu/title-ix/coordinators) (SOM’s Title IX Coordinator is Rebecca Udler)
+- [Yale's Live Safe App](https://your.yale.edu/community/public-safety/campus-safety-services/livesafe-app)
+- [Office for Equal Opportunity Programs](https://equalopportunity.yale.edu/)
+
 ## Homework assignments
 
 We will have roughly one homework assignment per class. That's a *lot* of
