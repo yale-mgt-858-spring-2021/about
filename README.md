@@ -179,6 +179,12 @@ Your use of git this semester will be super simple because you won't generally
 have collaborators. If you like, you can use a [git GUI](https://git-scm.com/downloads/guis).
 I use GitHub Desktop often, mostly for line-by-line staging of changes.
 
+
+## Textbook
+
+There is no textbook for the course. Readings will be posted on the
+[class website](https://858.mba).
+
 ## Homework assignments
 
 We will have roughly one homework assignment per class. That's a *lot* of
