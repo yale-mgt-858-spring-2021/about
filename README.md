@@ -207,6 +207,78 @@ a *lot* of work!  All of the homework assignments will be submitted to
 GitHub using git. Further, you'll be responsible for at least one in-class news
 item.
 
+## Quizzes
+
+Most classes are preceded by a quiz that you take
+through the class website. The quizzes are short, timed, multiple choice,
+mandatory, and ultimately a crude and imperfect assessment of
+the degree to which you understand the pre-class reading material.
+The following are my reasons for giving pre-class quizzes:
+
+1. It makes you think about the upcoming class!
+2. Empirical evidence shows that the [testing effect](https://en.wikipedia.org/wiki/Testing_effect)
+   increases your understanding and retention of material.
+3. They give you a low-stakes, super-small reward for coming to class prepared.
+4. They ensure that your classmates are better prepared for class and therefore more fun to speak with.
+5. They are short, you can google for stuff during the quiz, _and_ you
+   can drop your lowest two scores, so they are not stressful.
+
+You take the quizzes via the class website. Click on "meetings" then click on
+the meeting for a particular class. (You can also take the quizzes via the
+class API. If you're a masochist, contact me! 🤪) A button that says "Begin Quiz"
+will appear if you can take the quiz.  Once you begin a quiz, you can change
+your answers until either 15 minutes after you began the quiz, or the closing
+time of the quiz, which is usually the beginning of class. So, if you start a
+quiz five minutes prior to class, you will only have five minutes to submit the
+answers to the quiz questions! The quizzes are graded only after the quiz
+closes. Kyle will sometimes go over the content of the quizzes at the beginning
+of class.
+
+You can take the quiz if all of the following are true:
+
+- The quiz is not labeled as "draft". Draft means the teaching
+  staff are still working on the quiz questions.
+- The current time is after the quiz is "open". Quizzes usually
+  open five days before the meeting/lecture to which the quiz
+  corresponds.
+- The current time is not after the quiz is "closed". Quizzes
+  usually close when the meeting/lecture to which the quiz
+  corresponds begins.
+- You did not previously take the quiz or you already started
+  the quiz, but your time to take the quiz is not expired.
+  All quizzes this semester will last 20 minutes.
+
+Once you click "Begin Quiz", you will see a list of multiple
+choice questions displayed in an HTML form. For each question,
+you should select the options you desire and then click
+"Save Answers" at the bottom of the page. Unless there is an
+error, the options that you selected will be labeled as "saved",
+so that you have visual confirmation.
+
+A few notes about the quizzes...
+
+* The quiz questions are not uniformly drawn from material in
+  the pre-class reading. Some pre-class reading will be over-represented
+  and some under-represented either, usually because of heterogeneous
+  importance of the pre-class reading material.
+* We want the quiz questions to test your conceptual understanding.
+  We do not want to ask "gotcha" questions or simple recall questions.
+  However, we will fall short in those aspirations often.
+* Some quiz questions will have obvious answers. We do this in part
+  to remind you of important concepts.
+* If you feel like a quiz questions is unfair or that the answer
+  is wrong, please tell Kyle. It is easy for Kyle to "fix" a bad
+  question.
+* Questions that have multiple correct answers are indicated as
+  such in the class website.
+* There is a timer at the bottom of the page in the quiz UI on 
+  the class website. It shows the *approximate* time you have left
+  to finish your quiz. Please monitor your time.
+* It is 100% fine to google for the answers to quiz questions or to
+  look in the reading material. You may not rely on another human
+  being for real-time support on the quiz and you may not share
+  information about the quiz with other students.
+
 ## Grading
 
 Grading will follow the [official Yale SOM grading
@@ -235,38 +307,6 @@ the class more fun for all of us and most importantly for me 🤣.
 
 ## Class meetings
 
-This is a half term course. Here is our _tentative_ schedule.
-
-* Class intro and version control
-  2021-03-23T10:30:00-04:00
-* Introduction to RDBMS, PostgreSQL, and SQL
-  2021-03-25T10:30:00-04:00
-* SQL queries of multiple tables
-  2021-03-30:30:00-04:00
-* SQL schema design, normalization
-  2021-04-01T10:30:00-04:00
-* SQL CTEs, subqueries, and advanced joins
-  2021-04-06T10:30:00-04:00
-* Advanced aggregates and statistics
-  2021-04-08T10:30:00-04:00
-* SQL Indexes
-  2021-04-13T10:30:00-04:00
-* SQL views
-  2021-04-15T10:30:00-04:00
-* Scaling SQL
-  2021-04-20T10:30:00-04:00
-* Key-value databases
-  2021-04-22T10:30:00-04:00
-* Document databases
-  2021-04-27T10:30:00-04:00
-* Distributed databases
-  2021-04-29T10:30:00-04:00
-* Blockchain databases
-  2021-05-04T10:30:00-04:00
-* Class summary
-  2021-05-06T10:30:00-04:00
-* Final Exam
-  2021-05-07T09:00:00-04:00
-
+This is a half term course. You can see the schedule here: [https://858.mba](https://858.mba).
 Notice that we will meet on 4/8 even though Yale College does not.
 
