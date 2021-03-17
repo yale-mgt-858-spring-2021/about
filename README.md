@@ -91,7 +91,8 @@ Feel free to send an email if these times do not work for you.
 | Person          | Hours            | Location/URL                                                                |
 | --------------- | ---------------- | ----------------------------------------------------------------------- |
 | Kyle Jensen     | TBD | TDB |
-| TAs TDB   | TBD | TDB |
+| Nauman Charania   | TBD | TDB. Slack for now! |
+| Logan Disch   | TBD | TDB. Slack for now! |
 
 ## Development environment
 
