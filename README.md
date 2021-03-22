@@ -116,7 +116,7 @@ When you complete your assignments, you'll make git commits and push those
 commits up to GitHub so that I can download your answers and test them.
 Obviously this requires knowing a little bit of git. I'll point you to some
 git tutorials, but I'm not going to teach git in class. You are forewarned
-😉.
+😉. You can [read more about git here](github.md).
 
 You can complete the homework assignments on any kind of computer: Windows,
 Mac, Linux, whatever. You'll almost certainly need to install some software in
