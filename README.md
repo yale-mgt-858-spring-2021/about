@@ -16,7 +16,7 @@ Jump to [Covid info](#covid).
 | 📚&nbsp;Units                  | 2 units in Yale College and equivalent elsewhere                          |
 | 👥&nbsp;Enrollment             | Open to any student at Yale                             |
 | 🕓&nbsp;Meeting Time | Tues. & Thurs. 10:30-11:40 AM EST, March 23 - May 4, 2021                 |
-| 🏫&nbsp;Meeting Location | Some room in [Evans Hall](https://map.yale.edu/place/building/EVANS?) |
+| 🏫&nbsp;Meeting Location | Room 4410 in [Evans Hall](https://map.yale.edu/place/building/EVANS?) |
 | 💻&nbsp;Zoom link       | Will be in Canvas                                     |
 | 📅&nbsp;Calendar | [Yale SOM Spring 2021 Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar#spring2021) |
 | 🌐&nbsp;Website         | http://858.mba (down sometimes until class begins; requires Yale VPN)                  |
